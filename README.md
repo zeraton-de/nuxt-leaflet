@@ -1,6 +1,6 @@
 # @zeraton/nuxt-leaflet a fork of nuxt-leaflet
-[![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-leaflet/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-leaflet)
-[![npm](https://img.shields.io/npm/dt/nuxt-leaflet.svg?style=flat-square)](https://npmjs.com/package/nuxt-leaflet)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/@zeraton%2fnuxt-leaflet/latest.svg?style=flat-square)](https://npmjs.com/package/@zeraton%2fnuxt-leaflet)
+[![npm](https://img.shields.io/npm/dt/@zeraton%2fnuxt-leaflet.svg?style=flat-square)](https://npmjs.com/package/@zeraton%2fnuxt-leaflet)
 [![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
 
 > Nuxt module for leafletjs
@@ -15,17 +15,17 @@ See [vue2-leaflet](https://github.com/KoRiGaN/Vue2Leaflet) for more details.
 
 
 ## Setup
-- Add `nuxt-leaflet` dependency using yarn or npm to your project
-- Add `nuxt-leaflet` to `modules` section of `nuxt.config.js`
+- Add `@zeraton/nuxt-leaflet` dependency using yarn or npm to your project
+- Add `@zeraton/nuxt-leaflet` to `modules` section of `nuxt.config.js`
 
 ```js
 {
   modules: [
     // Simple usage
-    'nuxt-leaflet',
+    '@zeraton/nuxt-leaflet',
 
     // With options
-    ['nuxt-leaflet', { /* module options */ }],
+    ['@zeraton/nuxt-leaflet', { /* module options */ }],
  ]
 }
 ```
@@ -57,7 +57,7 @@ If you're using TypeScript, you'll need to add nuxt-leaflet in your compilerOpti
     "types": [
       "@types/node",
       "@nuxt/vue-app",
-      "nuxt-leaflet"
+      "@zeraton/nuxt-leaflet"
     ]
   }
 }
@@ -68,7 +68,7 @@ You'll then be able to have autocompletion in Vue instances (```this.$L```).
 
 ## List of currently implemented components
 
-See [components](https://github.com/schlunsen/nuxt-leaflet/blob/master/lib/templates/plugin.js) supported
+See [components](https://github.com/zeraton-de/nuxt-leaflet/blob/master/lib/templates/plugin.js) supported
 
 
 ## Development
