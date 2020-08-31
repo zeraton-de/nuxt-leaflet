@@ -1,17 +1,20 @@
 {
-  "name": "nuxt-leaflet",
-  "version": "0.0.21",
+  "name": "@zeraton/nuxt-leaflet",
+  "version": "0.1.0",
   "description": "Nuxt module for leafletjs",
   "license": "MIT",
   "contributors": [
     {
       "name": "Rasmus Schlunsen"
+    },
+    {
+      "name": "Alexander Jank"
     }
   ],
   "main": "lib/module.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schlunsen/nuxt-leaflet.git"
+    "url": "git+https://github.com/zeraton-de/nuxt-leaflet.git"
   },
   "publishConfig": {
     "access": "public"
@@ -50,14 +53,8 @@
     "eslint-plugin-standard": "4.0.1",
     "eslint-plugin-vue": "^6.1.2",
     "jest": "^25.1.0",
-    "jsdom": "^16.1.0",
-    "nuxt": "^2.11.0",
-    "standard-version": "^7.1.0"
-  },
-  "bugs": {
-    "url": "https://github.com/schlunsen/nuxt-leaflet/issues"
-  },
-  "readme": "https://github.com/schlunsen/nuxt-leaflet#readme",
-  "homepage": "https://github.com/schlunsen/nuxt-leaflet#readme",
-  "_id": "nuxt-leaflet@0.0.11"
+    "jsdom": "^16.4.0",
+    "nuxt": "^2.14.4",
+    "standard-version": "^9.0.0"
+  }
 }
