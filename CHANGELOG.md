@@ -1,6 +1,13 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [0.1.1](https://github.com/zeraton-de/nuxt-leaflet/compare/v0.0.19...v0.1.1) (2020-08-31)
+
+
+### Features
+
+* **icons:** load icons from local sources ([8321f0c](https://github.com/zeraton-de/nuxt-leaflet/commit/8321f0c328abf5a43a74ea7a951904cc1779a87d))
 
 <a name=""></a>
 # [](https://github.com/schlunsen/nuxt-leaflet/compare/v0.0.11...v) (2019-01-18)
