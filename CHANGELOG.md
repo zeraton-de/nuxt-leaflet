@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/zeraton-de/nuxt-leaflet/compare/v0.1.3...v0.1.4) (2020-09-02)
+
+
+### Features
+
+* **typings:** add typings to package-json ([4d88ffb](https://github.com/zeraton-de/nuxt-leaflet/commit/4d88ffb98f26bec010f9a90a290bd33f785d639a))
+
 ### [0.1.3](https://github.com/zeraton-de/nuxt-leaflet/compare/v0.1.1...v0.1.3) (2020-08-31)
 
 ### [0.1.1](https://github.com/zeraton-de/nuxt-leaflet/compare/v0.0.19...v0.1.1) (2020-08-31)

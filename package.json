@@ -1,6 +1,6 @@
 {
   "name": "@zeraton/nuxt-leaflet",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Nuxt module for leafletjs",
   "license": "MIT",
   "contributors": [
